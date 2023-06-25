@@ -1,0 +1,179 @@
+
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color: #000;
+    color: aliceblue;
+    display: flex;
+}
+.Header1{
+    padding-left: 15px;
+    bottom: 5px;
+    font-size: 30px;
+    text-shadow:  5px 5px 4px  white;
+}
+.SearchBar{
+    width: fit-content;
+    padding: 40px 0px 0px 67%;
+}
+.btn{
+    background-color: rgb(172, 214, 250);
+    border-radius: 6px;
+}
+.search-field{
+    border-radius: 7px;
+    height: 30px;
+    width: 200px;
+}
+.search-field:hover{
+    border: 4px solid rgb(172, 214, 250);
+}
+.Nav-List{
+    display: flex;
+    width: fit-content;
+    list-style-type: none;
+    margin: 30px 0px 0px 180px;
+}
+.Nav-Item a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0px 15px 0px 15px;
+    font-size: 25px;
+    
+}
+.Nav-Item a:hover{
+    color: hsla(360, 100%, 94%, 1);
+}
+.Nav-Item  a:focus{
+    color: hsla(360, 100%, 94%, 1);
+    
+}
+.Header2{
+    font-size: 45px;
+    margin: 15px 0px 5px 15px;
+    background-color: hsla(360, 100%, 94%, 1);
+    width: 140px ;
+    height: fit-content;
+    padding: 5px 10px 5px 30px;
+    border-radius: 10px; 
+    box-shadow: #000 3px 3px 3px 3px;
+    text-shadow: ;
+}
+.Header21{
+    font-size: 45px;
+    margin: 15px 0px 5px 15px;
+    background-color: hsla(360, 100%, 94%, 1);
+    width: 160px ;
+    height: fit-content;
+    padding: 5px 10px 5px 30px;
+    border-radius: 10px; 
+    box-shadow: #000 3px 3px 3px 3px;
+    text-shadow: ;
+}
+.Grid1{
+    width: 1340px;
+    height: 440px;
+    display: flex;
+    margin-top: 20px;
+}
+.Grid11{
+    width: 45%;
+    height: 100%;
+}
+.Grid11car, .Grid11mobile, .Grid11lake{
+    width: 30%;
+    height: 100%;
+}
+.Grid21{
+    width: 55%;
+    height: 100%;
+}
+.Grid21car, .Grid21mobile, .Grid21lake{
+    width: 70%;
+    height: 100%;
+    display: flex;
+}
+.Image11{
+    width: 100%;
+    height: 40%;
+}
+.Image11car, .Image11mobile, .Image11lake{
+    width: 100%;
+    height: 40%;
+}
+.Image12{
+    width: 100%;
+    height: 60%;
+
+}
+.Image12car, .Image12mobile, .Image12lake{
+    width: 100%;
+    height: 60%;
+
+}
+.Image21{
+    width: 100%;
+    height: 100%;
+    
+}
+.Image21car, .Image21mobile, .Image21lake{
+    width: 60%;
+    height: 100%;
+    
+}
+.Image22car{
+    width: 40%;
+    height: 100%;
+    
+}
+.Image11 img, .Image11car img, .Image11mobile img, .Image11lake img{
+    width: 98%;
+    height: 96%;
+    margin: 0px 5px 5px 0px;
+    border: 2px solid white;
+}
+.Image12 img, .Image12car img, .Image12mobile img,  .Image12lake img{
+    width: 98%;
+    height: 98%;
+    margin: 5px 5px 0px 0px;
+    border: 2px solid white;
+}
+.Image21 img, .Image21car img, .Image22car img, .Image21mobile img, .Image22mobile img, .Image21lake img, .Image22lake img{
+    width: 100%;
+    height: 100%;
+    border: 2px solid white;
+}
+.Grid2{
+    width: 1340px;
+    height: 440px;
+    display: flex;
+    margin-top: 10px;
+    display: flex;
+}
+.GridImage1{
+    width: 25%;
+    height: 100%;
+}
+.GridImage2{
+    width: 50%;
+    height: 100%;
+}
+.GridImage2lake{
+    width: 50%;
+    height: 100%;
+    display: block
+}
+.GridImage3{
+    width: 25%;
+    height: 100%;
+}
+
+.GridImage1 img, .GridImage2 img, .GridImage3 img, .Image31lake img, .Image32lake img{
+    width: 100%;
+    height: 100%;
+    border: 2px solid white;
+}
+.Image31lake, .Image32lake{
+    width: 100%;
+    height: 50%;
+}

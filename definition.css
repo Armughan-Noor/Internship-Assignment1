@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0px 0px 50px;
+    background-color: #f1f1f1;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+
+  }
+  nav ul li a:hover{
+    background-color: #333;
+    color: #fff;
+    border-radius: 7px;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* nav ul li a:hover {
+    background-color: #ddd;
+  }
+   */
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  .Container-HTML p{
+    text-decoration: none;
+    color: #333;
+    text-align: justify;
+    font-size: 15px;
+    word-spacing: 0.5em;
+  }
+  .Container-HTML a{
+    text-decoration: none;
+    text-align: justify;
+    font-size: 15px;
+    word-spacing: normal;
+
+  }
+  .Container-HTML h2{
+    /* text-shadow: 0px 0px 3px #000; */
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+  }
+  .Container-HTML h4{
+        text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+        0px -4px 10px rgba(255,255,255,0.3);
+    }
+.Container-CSS p{
+    text-decoration: none;
+    color: #333;
+    text-align: justify;
+    font-size: 15px;
+    word-spacing: 0.5em;
+}
+.Container-CSS h2{
+    /* text-shadow: 0px 0px 3px #000; */
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+  }
+  .Container-CSS h4{
+        text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+        0px -4px 10px rgba(255,255,255,0.3);
+    }
+
+    .Container-CSS a{
+        text-decoration: none;
+        text-align: justify;
+        font-size: 15px;
+        word-spacing: normal;
+    
+      }
+      .Container-JavaScript p{
+        text-decoration: none;
+        color: #333;
+        text-align: justify;
+        font-size: 15px;
+        word-spacing: 0.5em;
+    }
+    .Container-JavaScript h4{
+        text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+        0px -4px 10px rgba(255,255,255,0.3);
+    }
+
+    .Container-JavaScript a{
+        text-decoration: none;
+        text-align: justify;
+        font-size: 15px;
+        word-spacing: normal;
+    
+      }
+      .Container-JavaScript h2{
+        /* text-shadow: 0px 0px 3px #000; */
+        text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+        0px -4px 10px rgba(255,255,255,0.3);
+      }
+
+      
